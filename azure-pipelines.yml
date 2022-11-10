@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '66f1e8cc-4025-4cba-b831-386c9f060ff8'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'portfoliowebapp'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
